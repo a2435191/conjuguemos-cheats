@@ -8,7 +8,7 @@ Despite the name, the author would really prefer if you didn't use his hard work
 as learning a language is fun and rewarding!
 
 ### Files
-- `conjuguemos.py`: the CLI wrapper. 
+- `cli.py`: the CLI wrapper. 
 - `base.py`: contains the ConjuguemosInterface class.
 
 ### Dependencies
