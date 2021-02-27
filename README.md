@@ -9,7 +9,7 @@ as learning a language is fun and rewarding!
 
 ### Files
 - `cli.py`: the CLI wrapper. (needs to be marked as executable/have alias created first)
-- `base.py`: contains the ConjuguemosInterface class.
+- `base.py`: contains the `ConjuguemosInterface` class.
 
 ### Dependencies
 - `python3.8` or later
